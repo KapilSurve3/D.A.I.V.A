@@ -163,7 +163,7 @@ margin: 0 0 0 0;
 .Predictreport{
     width: 100%;
     height: 100vh;
-    background-image: url(images/Rockbg.png);
+    background-image: url(https://i.ibb.co/2vk2dXb/Rockbg.png);
     background-position: center;
     background-size:contain;
     position:relative;
@@ -193,7 +193,7 @@ margin: -330 200 200 -240;
     background-position: center;
     width: 30px;
     margin: -150 0 0 -5;
-    background-image: url(Images/Rockbg.png);
+    background-image: url(https://i.ibb.co/2vk2dXb/Rockbg.png);
     border-radius: 10px;
     border-color: black;
     
@@ -216,7 +216,7 @@ margin: -330 200 200 -240;
     width: 100px;
     height: 40px;
     margin: 180 0 0 -35;
-    background-image: url(Images/Rockbg.png);
+    background-image: url(https://i.ibb.co/2vk2dXb/Rockbg.png);
     background-size:cover;
     font-weight: bold;
     font-size: large;
